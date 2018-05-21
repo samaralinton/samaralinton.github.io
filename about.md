@@ -27,7 +27,7 @@ October 2016: [Cultural Appropriation v Cultural Appreciation, University of War
 
 March 2016: [Launch of  Africa APPG report, House of Commons](https://www.eventbrite.co.uk/e/africa-appg-polygeia-report-launch-lessons-from-ebola-affected-communities-tickets-21057627932) Panelist
 
-February 2016: [I Too Am Sussex in conversation: Race, Justice and Mental Health, University of Sussex](https://www.facebook.com/events/588595211289222/?ref=1&amp;action_history=%5B%7B%22surface%22%3A%22permalink%22%2C%22mechanism%22%3A%22surface%22%2C%22extra_data%22%3A%5B%5D%7D%5D)`` Panelist
+February 2016: [I Too Am Sussex in conversation: Race, Justice and Mental Health, University of Sussex](https://www.facebook.com/events/588595211289222/?ref=1&amp;action_history=%5B%7B%22surface%22%3A%22permalink%22%2C%22mechanism%22%3A%22surface%22%2C%22extra_data%22%3A%5B%5D%7D%5D) Panelist
 
 September 2015: [Dream Nation Be Well Live](http://dreamnation.co.uk/be-well-live/) Panel Host
 
