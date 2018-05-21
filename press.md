@@ -1,26 +1,7 @@
 ---
 layout: page
 title: Press
-date: 2016-11-29 23:32:02.000000000 +01:00
-type: page
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '99503324'
-  _thumbnail_id: '367'
-  _wp_page_template: default
-  _publicize_pending: '1'
-  geo_public: '0'
-author:
-  login: samaraswords
-  email: s-linton@hotmail.co.uk
-  display_name: SamaraLinton
-  first_name: ''
-  last_name: ''
+permalink: /press/
 ---
 <p><strong>Interviews and mentions in the media </strong></p>
 <p>November 2016. <a href="https://www.theguardian.com/media/greenslade/2016/nov/25/journalists-win-ending-violence-against-women-awards">Journalists win 'ending violence against women' awards | The Guardian</a></p>

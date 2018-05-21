@@ -14,7 +14,7 @@ Samara has also been very involved in university life. She was the chair of the 
 <h2>Upcoming</h2>
 25 March 2018: [Vulnerability: Tears and Feminism, AWOMENfest](https://www.awomenfest.com/) Speaker
 
-<h2>Upcoming</h2>
+<h2>Past</h2>
 March 2018: [One in Five: Women's Mental Health, Women of the World (WOW) Festival, Southbank](https://www.southbankcentre.co.uk/whats-on/festivals-series/women-of-the-world) Panelist
 
 February 2018: [Self-care, Religion &amp; Spirituality, Self-care as Resistance for Black Women](https://racereflections.co.uk/2018/01/15/self-care-as-resistance-for-black-women-learning-healing-organising/amp/?__twitter_impression=true)`` Speaker
