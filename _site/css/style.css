@@ -3,12 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #A6BCCA;
-}
-
-
-td {
-    padding: 0 15px 5px 15px
+    background-color: #FFFFFF;
 }
 
 p {
@@ -21,7 +16,15 @@ p.abstract {
     font-size:16px
 }
 h1 {
-    font-family: 'Alfa Slab One', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Cardo', serif;
+    font-size: 70px;
+    font-weight: 500;
+}
+h2.italic {
+    font-family: 'Cardo', serif;
+    font-size: 30px;
+    font-weight: 100;
+    font-style: italic;
 }
 
 #site-head {
@@ -34,4 +37,11 @@ h1 {
   display: inline;
   margin-left: 20px;
   margin-right: 20px;
+}
+
+.site-header {
+    border-top: 0px solid #FFFFFF;
+    border-bottom: 1px solid #e8e8e8;
+    min-height: 55.95px;
+    position: relative;
 }
