@@ -19,10 +19,11 @@ h1 {
     font-family: 'Cardo', serif;
     font-size: 70px;
     font-weight: 500;
+    margin-bottom: -20px;
 }
 h2.italic {
     font-family: 'Cardo', serif;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 100;
     font-style: italic;
 }
@@ -40,8 +41,20 @@ h2.italic {
 }
 
 .site-header {
-    border-top: 0px solid #FFFFFF;
-    border-bottom: 1px solid #e8e8e8;
-    min-height: 55.95px;
-    position: relative;
+  border-top: 0px solid #FFFFFF;
+  border-bottom: 1px solid #e8e8e8;
+  min-height: 55.95px;
+  position: relative;
+}
+
+a.site-title {
+  font-family: 'Cardo', serif;
+  font-size: 30px;
+  font-weight: 100;
+}
+
+a.page-link {
+  font-family: 'Cardo', serif;
+  font-size: 30px;
+  font-weight: 100;
 }

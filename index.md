@@ -4,4 +4,3 @@
 
 layout: home
 ---
-Best New Journalist, Ending Violence Against Women Media Awards 2016
