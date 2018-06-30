@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Articles
+permalink: /articles/
 ---
 
 {%- if site.posts.size > 0 -%}
