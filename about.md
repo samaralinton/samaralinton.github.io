@@ -14,9 +14,13 @@ Samara is a University of Cambridge and a University College London graduate, an
 <h1><strong>Speaking Engagements</strong></h1>
 &nbsp;
 <h2>Upcoming</h2>
-25 March 2018: [Vulnerability: Tears and Feminism, AWOMENfest](https://www.awomenfest.com/) Speaker
+5 October 2018: [Black Sheroes Month Preview & The Colour of Madness Book Launch](https://www.eventbrite.co.uk/e/black-sheroes-month-preview-the-colour-of-madness-book-launch-tickets-47671764531). Speaker.
+
+11 October 2018: [The Colour of Madness: Exploring BAME mental health, Lambeth Black History Month](https://www.facebook.com/events/288023908460842/). Speaker.
 
 <h2>Past</h2>
+25 March 2018: [Vulnerability: Tears and Feminism, AWOMENfest](https://www.awomenfest.com/) Speaker
+
 March 2018: [One in Five: Women's Mental Health, Women of the World (WOW) Festival, Southbank](https://www.southbankcentre.co.uk/whats-on/festivals-series/women-of-the-world) Panelist
 
 February 2018: [Self-care, Religion &amp; Spirituality, Self-care as Resistance for Black Women](https://racereflections.co.uk/2018/01/15/self-care-as-resistance-for-black-women-learning-healing-organising/amp/?__twitter_impression=true)`` Speaker
