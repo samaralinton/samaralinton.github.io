@@ -11,8 +11,8 @@ March 2016 saw the Parliamentary launch of Lessons from Ebola Affected Communiti
 Samara is a University of Cambridge and a University College London graduate, and she has published and presented research on mental health.
 
 <br>
-<h1><strong>Speaking Engagements</strong></h1>
-&nbsp;
+<h1>Speaking Engagements</h1>
+<br>
 <h2>Upcoming</h2>
 5 October 2018: [Black Sheroes Month Preview & The Colour of Madness Book Launch](https://www.eventbrite.co.uk/e/black-sheroes-month-preview-the-colour-of-madness-book-launch-tickets-47671764531). Speaker.
 

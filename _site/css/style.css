@@ -28,6 +28,14 @@ h2.italic {
     font-style: italic;
 }
 
+
+h1.post-title{
+    font-family: 'Cardo', serif;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: -20px;
+}
+
 #site-head {
   text-align: center;
   width: 100%;
