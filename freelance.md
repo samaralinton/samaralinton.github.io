@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Articles
-permalink: /articles/
+title: Freelance
+permalink: /freelance/
 ---
 
 {%- if site.posts.size > 0 -%}
