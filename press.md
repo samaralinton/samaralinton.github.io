@@ -1,7 +1,7 @@
 ---
 layout: page
-title: In the media
-permalink: /in-the-media/
+title: Press
+permalink: /press/
 ---
 <p><strong>Interviews and mentions in the media </strong></p>
 <p>November 2016. <a href="https://www.theguardian.com/media/greenslade/2016/nov/25/journalists-win-ending-violence-against-women-awards">Journalists win 'ending violence against women' awards | The Guardian</a></p>
