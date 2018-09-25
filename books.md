@@ -25,4 +25,4 @@ Imkaan @ Medium. [#16blogs for #IDEVAW. Beyond 'Resilience': black women and men
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uipYgJlyaGE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<p>Twitter: <a href="https://twitter.com/madnesscolourof">@MadnessColourOf</a> #ColourOfMadness</p>
+<p>Twitter: [@MadnessColourOf](https://twitter.com/madnesscolourof) [#ColourOfMadness](https://twitter.com/hashtag/ColourofMadness?src=hash)</p>
